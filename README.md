@@ -65,3 +65,5 @@ This project is [MIT](https://github.com/mshumer/gpt-llm-trainer/blob/master/LIC
 Matt Shumer - [@mattshumer_](https://twitter.com/mattshumer_)
 
 Lastly, if you want to try something even cooler than this, sign up for [Personal Assistant](https://www.hyperwriteai.com/personal-assistant) (most of my time is spent on this). It's basically an AI that can operate your web browser to complete tasks for you.
+
+Head to [ShumerPrompt](https://shumerprompt.com), my "Github for Prompts"!
